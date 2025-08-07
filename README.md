@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend+Developer+%E2%86%92+Data+Visualization+Specialist;Building+Interactive+Data+Stories;7%2B+Years+Frontend+Experience;Currently+Learning+D3.js+%26+WebGL" alt="Typing SVG" />
 
-### 🎯 Mission: 데이터 시각화&실시간 분석에 특화된 프론트엔드 개발자 되기
+### 🎯 Mission: 데이터 시각화 & 실시간 분석에 특화된 프론트엔드 개발자 되기
 
 </div>
 
@@ -39,17 +39,6 @@
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
-### **Learning for Data Visualization** 🌱
-<p align="left">
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white&opacity=0.7"/>
-<img src="https://img.shields.io/badge/R3F-000000?style=for-the-badge&logo=threedotjs&logoColor=white&opacity=0.7"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&opacity=0.7"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&opacity=0.7"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&opacity=0.7"/>
-<img src="https://img.shields.io/badge/Canvas-FF6B6B?style=for-the-badge&logo=html5&logoColor=white&opacity=0.7"/>
-<img src="https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=socketdotio&logoColor=white&opacity=0.7"/>
-</p>
-
 ### **Backend & Tools**
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -61,6 +50,18 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
+
+### **Learning for Data Visualization** 🌱
+<p align="left">
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white&opacity=0.7"/>
+<img src="https://img.shields.io/badge/R3F-000000?style=for-the-badge&logo=threedotjs&logoColor=white&opacity=0.7"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&opacity=0.7"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&opacity=0.7"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&opacity=0.7"/>
+<img src="https://img.shields.io/badge/Canvas-FF6B6B?style=for-the-badge&logo=html5&logoColor=white&opacity=0.7"/>
+<img src="https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=socketdotio&logoColor=white&opacity=0.7"/>
+</p>
+
 
 ---
 
