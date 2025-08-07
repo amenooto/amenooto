@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend+Developer+%E2%86%92+Data+Visualization+Specialist;Building+Interactive+Data+Stories;7%2B+Years+Frontend+Experience;Currently+Learning+D3.js+%26+WebGL" alt="Typing SVG" />
 
-### 🎯 Mission: 대용량 데이터를 직관적이고 아름다운 시각화로 변환하는 전문가 되기
+### 🎯 Mission: 데이터 시각화&실시간 분석에 특화된 프론트엔드 개발자 되기
 
 </div>
 
@@ -85,12 +85,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoyahozz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoyahozz&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amenooto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenooto&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoyahozz&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenooto&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoyahozz&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amenooto&theme=tokyo-night" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -122,13 +122,14 @@
 
 <div align="center">
 
-**💼 Currently:** Frontend Team Lead at 아이디에스앤트러스트  
+**💼 Currently:** Frontend Part Lead at IdsTrust  
 **🎯 Open to:** Data Visualization & Analytics opportunities  
 **📧 Email:** hoyah@naver.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoyahozz)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1gqmfUpUXaVbI83qWfRjmSnBhvmvWFnVs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1Rw6FZaV1d0l2P0FsSaF6y42pEuobJkJf)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amenooto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
 
 </div>
 
@@ -136,8 +137,8 @@
 
 <div align="center">
 
-### 🌟 "데이터 속에 숨겨진 이야기를 시각적으로 풀어내는 것이 목표입니다"
+### 🚀 "복잡한 데이터를 간단하고 예쁘게 보여주는 개발자가 되고 싶습니다"
 
-![Profile Views](https://komarev.com/ghpvc/?username=hoyahozz&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=amenooto&color=blueviolet&style=flat-square)
 
 </div>
