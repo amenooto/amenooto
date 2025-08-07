@@ -125,7 +125,7 @@
 
 **💼 Currently:** Frontend Part Lead at IdsTrust  
 **🎯 Open to:** Data Visualization & Analytics opportunities  
-**📧 Email:** hoyah@naver.com
+**📧 Email:** hoyah92@naver.com
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1gqmfUpUXaVbI83qWfRjmSnBhvmvWFnVs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1Rw6FZaV1d0l2P0FsSaF6y42pEuobJkJf)
